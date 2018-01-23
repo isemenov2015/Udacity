@@ -1,2 +1,1 @@
-# Udacity
-repo for Udacity MLE nanodegree
+#All projects for Udacity Machine learning engineer Nanodegree
